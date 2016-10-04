@@ -1,6 +1,5 @@
 * {
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 button {
   width: 200px;
@@ -8,5 +7,6 @@ button {
   border-radius: 10px;
   font-size: 20px;
   font-weight: lighter;
-  background-color: #ECF0F1;
-}
+  background-color: #ECF0F1; }
+
+/*# sourceMappingURL=main.css.map */
