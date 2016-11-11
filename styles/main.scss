@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-weight: lighter;
 }
 
 button {
@@ -7,7 +8,35 @@ button {
   height: 50px;
   border-radius: 10px;
   font-size: 20px;
-  font-weight: lighter;
   background-color: #ECF0F1;
+  margin-left: 10px;
+  outline: none;
 }
- 
+
+.spawnedOrgs{
+  background-color: #ECF0F1;
+  margin: 10px;
+  height: 50px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+
+  img{
+    width: 30px;
+    float: left;
+    margin: 10px;
+  }
+
+  h2{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #aaa;
+    margin-bottom: 20px;
+    float: left;
+  }
+
+}
+
+section{
+  margin: 0;
+}
